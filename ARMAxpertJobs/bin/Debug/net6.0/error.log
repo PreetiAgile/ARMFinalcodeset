@@ -1,0 +1,2 @@
+25-04-2024 17:47:44: Error processing message: Simulated error for logging test | Exception: Simulated error for logging test
+Stack Trace:    at ARMAxpertJobs.Program.<>c__DisplayClass0_0.<<Main>g__OnConsuming|0>d.MoveNext() in C:\Users\preeti.b\Desktop\Finalcode\ARMAxpertJobs\Program.cs:line 173

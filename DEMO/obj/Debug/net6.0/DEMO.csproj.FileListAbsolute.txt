@@ -1,0 +1,104 @@
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\DEMO.exe
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\DEMO.deps.json
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\DEMO.runtimeconfig.json
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\DEMO.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\DEMO.pdb
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.csproj.AssemblyReference.cache
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.AssemblyInfoInputs.cache
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.AssemblyInfo.cs
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.csproj.CopyComplete
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\refint\DEMO.dll
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.pdb
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\DEMO.genruntimeconfig.cache
+C:\Users\preeti.b\Desktop\Axpert Services\DEMO\obj\Debug\net6.0\ref\DEMO.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\DEMO.exe
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\DEMO.deps.json
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\DEMO.runtimeconfig.json
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\DEMO.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\DEMO.pdb
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\Prometheus.AspNetCore.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\FinalCodeSet\DEMO\bin\Debug\net6.0\System.Text.Json.dll
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.csproj.AssemblyReference.cache
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.AssemblyInfoInputs.cache
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.AssemblyInfo.cs
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.csproj.CoreCompileInputs.cache
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.csproj.Up2Date
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.dll
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\refint\DEMO.dll
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.pdb
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\DEMO.genruntimeconfig.cache
+C:\FinalCodeSet\DEMO\obj\Debug\net6.0\ref\DEMO.dll

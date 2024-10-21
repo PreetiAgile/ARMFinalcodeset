@@ -1,0 +1,1682 @@
+ Traces of Consumer Message are  09-01-2024 17:28:25{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:29:06{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:29:34{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:31:26{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:32:31{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+Producer is Sending  Message   09-01-2024 17:33:54{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 17:33:54{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   09-01-2024 17:34:43{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 17:34:43{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   09-01-2024 17:34:49{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 17:34:59{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+Producer is Sending  Message   09-01-2024 17:35:11{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 17:35:16{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "12:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+Producer is Sending  Message   09-01-2024 17:35:48{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 17:39:39{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:41:09{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:42:09{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:43:29{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:43:35{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Daily",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:43:44{"queuedata" : 
+{
+	"start_date" : "12/01/2024",
+	"period" : "Daily",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:43:52{"queuedata" : 
+{
+	"start_date" : "12/01/2023",
+	"period" : "Daily",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:44:14{"queuedata" : 
+{
+	"start_date" : "12/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Monday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:44:27{"queuedata" : 
+{
+	"start_date" : "12/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:46:41{"queuedata" : 
+{
+	"start_date" : "12/01/2024",
+	"period" : "Daily",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:51:49{"queuedata" : 
+{
+	"start_date" : "12/01/2024",
+	"period" : "Daily",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:51:59{"queuedata" : 
+{
+	"start_date" : "02/01/2024",
+	"period" : "Daily",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:52:05{"queuedata" : 
+{
+	"start_date" : "02/01/2024",
+	"period" : "Daily",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:52:12{"queuedata" : 
+{
+	"start_date" : "13/01/2024",
+	"period" : "Daily",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:52:25{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:52:40{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:52:45{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:52:59{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:54:32{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:56:00{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:56:36{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Tuesday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:56:43{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Monday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:57:00{"queuedata" : 
+{
+	"start_date" : "11/01/2024",
+	"period" : "Weekly",
+	"sendon" : "Thursday",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:57:34{"queuedata" : 
+{
+	"start_date" : "11/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 17:57:47{"queuedata" : 
+{
+	"start_date" : "11/01/2024",
+	"period" : "monthly",
+	"sendon" : "last day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:13:54{"queuedata" : 
+{
+	"start_date" : "11/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:14:32{"queuedata" : 
+{
+	"start_date" : "11/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:14:48{"queuedata" : 
+{
+	"start_date" : "01/02/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:15:09{"queuedata" : 
+{
+	"start_date" : "01/02/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:19:19{"queuedata" : 
+{
+	"start_date" : "01/02/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:19:32{"queuedata" : 
+{
+	"start_date" : "01/02/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:19:51{"queuedata" : 
+{
+	"start_date" : "01/03/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:20:13{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 AM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:20:29{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:22:52{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "monthly",
+	"sendon" : "last day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:25:25{"queuedata" : 
+{
+	"start_date" : "09/01/2024",
+	"period" : "monthly",
+	"sendon" : "last day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:25:33{"queuedata" : 
+{
+	"start_date" : "09/02/2024",
+	"period" : "monthly",
+	"sendon" : "last day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:25:41{"queuedata" : 
+{
+	"start_date" : "31/01/2024",
+	"period" : "monthly",
+	"sendon" : "last day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:25:48{"queuedata" : 
+{
+	"start_date" : "30/01/2024",
+	"period" : "monthly",
+	"sendon" : "last day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:30:51{"queuedata" : 
+{
+	"start_date" : "30/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:35:03{"queuedata" : 
+{
+	"start_date" : "30/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:35:16{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:35:27{"queuedata" : 
+{
+	"start_date" : "26/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:18{"queuedata" : 
+{
+	"start_date" : "26/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:25{"queuedata" : 
+{
+	"start_date" : "26/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:32{"queuedata" : 
+{
+	"start_date" : "27/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:37{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:43{"queuedata" : 
+{
+	"start_date" : "01/03/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:49{"queuedata" : 
+{
+	"start_date" : "01/04/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:54{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:36:58{"queuedata" : 
+{
+	"start_date" : "01/01/2022",
+	"period" : "monthly",
+	"sendon" : "first day of last week",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:39:04{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:39:27{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:39:47{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:39:55{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:40:16{"queuedata" : 
+{
+	"start_date" : "01/01/2024",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:40:33{"queuedata" : 
+{
+	"start_date" : "01/04/2024",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:40:45{"queuedata" : 
+{
+	"start_date" : "01/04/2023",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:40:52{"queuedata" : 
+{
+	"start_date" : "01/07/2023",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:40:57{"queuedata" : 
+{
+	"start_date" : "02/07/2023",
+	"period" : "quarterly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:42:17{"queuedata" : 
+{
+	"start_date" : "02/01/2023",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 18:42:24{"queuedata" : 
+{
+	"start_date" : "02/02/2023",
+	"period" : "monthly",
+	"sendon" : "first day",
+	"sendtime" : "11:00 PM",
+	"project" : "qapost113",
+	"notification" : "nt1",
+	"username" : "mohan"
+}
+}
+ Traces of Consumer Message are  09-01-2024 19:25:42{"queuedata" :
+{
+        "start_date" : "09/01/2023",
+        "period" : "daily",
+        "sendtime" : "07:30 PM",
+        "project" : "qapost113",
+        "notification" : "nt1",
+        "username" : "mohan"
+}
+}
+Producer is Sending  Message   09-01-2024 19:25:56{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"07:30 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 19:26:03{"queuedata" :
+{
+        "start_date" : "09/01/2023",
+        "period" : "daily",
+        "sendtime" : "07:27 PM",
+        "project" : "qapost113",
+        "notification" : "nt1",
+        "username" : "mohan"
+}
+}
+Producer is Sending  Message   09-01-2024 19:26:11{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"07:27 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 19:27:07{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"07:27 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  09-01-2024 19:30:13{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"07:30 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 08:39:08{"queuedata" :
+{
+        "start_date" : "09/01/2023",
+        "period" : "daily",
+        "sendtime" : "08:40 AM",
+        "project" : "qapost113",
+        "notification" : "nt1",
+        "username" : "mohan"
+}
+}
+Producer is Sending  Message   10-01-2024 08:39:14{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"08:40 AM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 08:40:05{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"08:40 AM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 08:40:59{"QueueData":{"start_date":"09/01/2023","period":"daily","sendtime":"08:40 AM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 10:28:44{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Daily",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:29:00{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:29:15{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "10/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:29:28{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "10/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:29:51{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "10/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:30:19{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:30:37{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:32:05{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:33:17{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:33:41{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "10/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:35:26{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "10/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:35:38{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:35:44{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "11/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:35:49{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "11/01/2024",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:39:48{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "11/01/2024",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:39:55{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "11/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:40:05{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "01/01/2023",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:40:14{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "01/01/2025",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:40:19{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "02/01/2025",
+		"period" : "Yearly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:40:29{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "02/01/2025",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:40:38{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "02/01/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:43:37{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "02/01/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:44:06{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "02/02/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:44:21{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "01/02/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:44:31{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "03/02/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:44:37{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/02/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:44:42{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/06/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:44:56{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/01/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:45:00{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/02/2024",
+		"period" : "monthly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:45:30{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/02/2024",
+		"period" : "quarterly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:45:39{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/04/2024",
+		"period" : "quarterly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:45:46{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/04/2024",
+		"period" : "quarterly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:46:00{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/01/2024",
+		"period" : "quarterly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:46:20{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/01/2023",
+		"period" : "quarterly",
+		"sendon" : "First Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:46:35{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/01/2023",
+		"period" : "quarterly",
+		"sendon" : "Last Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:47:21{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/01/2023",
+		"period" : "monthly",
+		"sendon" : "Last Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:47:30{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "04/02/2023",
+		"period" : "monthly",
+		"sendon" : "Last Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:47:41{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "31/01/2024",
+		"period" : "monthly",
+		"sendon" : "Last Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:47:51{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "31/02/2024",
+		"period" : "monthly",
+		"sendon" : "Last Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:47:57{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "20/02/2024",
+		"period" : "monthly",
+		"sendon" : "Last Day", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:00{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "20/02/2024",
+		"period" : "monthly",
+		"sendon" : "first day of last week", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:05{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "20/01/2024",
+		"period" : "monthly",
+		"sendon" : "first day of last week", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:15{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "20/01/2023",
+		"period" : "monthly",
+		"sendon" : "first day of last week", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:22{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "26-01-2024",
+		"period" : "monthly",
+		"sendon" : "first day of last week", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:32{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "26-02-2024",
+		"period" : "monthly",
+		"sendon" : "first day of last week", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:50{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "26-02-2024",
+		"period" : "quarterly",
+		"sendon" : "last day", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:50:56{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "26-02-2023",
+		"period" : "quarterly",
+		"sendon" : "last day", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:51:06{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "31-03-2024",
+		"period" : "quarterly",
+		"sendon" : "last day", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:51:12{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "31-04-2024",
+		"period" : "quarterly",
+		"sendon" : "last day", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:51:18{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "30-04-2024",
+		"period" : "quarterly",
+		"sendon" : "last day", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 10:51:28{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "Mohan",
+		"start_date" : "30-04-2024",
+		"period" : "quarterly",
+		"sendon" : "first day of last week", //First Day,Last Day,first day of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+
+ Traces of Consumer Message are  10-01-2024 12:58:32{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 12:58:32{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 12:58:32{"QueueData":{"start_date":"01/01/2024","period":"Daily","sendtime":"12:00 PM","project":"qapost113","notification":"nt1","username":"mohan","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 13:01:39{
+	"queuename" : "ARMPeriodicNotificationQueue",
+	"queuedata" : {
+		"project" : "qapost113",
+		"notification" : "nt1",
+		"username" : "mohan",
+		"start_date" : "09/01/2023",
+		"period" : "Monthly",
+		"sendon" : "First Day of last week", //First Day,Last Day,First MonDay of last week
+		"sendtime" : "07:00 PM"			
+	}
+}
+ Traces of Consumer Message are  10-01-2024 16:44:55{"queuedata":"ARMPeriodicNotificationQueueData","queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  10-01-2024 16:56:03{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  10-01-2024 17:00:36{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  10-01-2024 17:28:17{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:29 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:28:32{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:29:09{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:30:06{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:31 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:30:10{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:31 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:31:04{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:31 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:31:07{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:31 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:34:29{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:35 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:34:33{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:35 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:35:04{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:35 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:35:12{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:35 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:35:55{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:36 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:36:01{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:36 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:36:05{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:36 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:36:08{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:36 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:36:16{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:36:19{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:37 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:37:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:37 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:46:54{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:37 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:46:59{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  10-01-2024 17:47:01{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:47 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:47:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:37 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:47:03{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:47 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:47:04{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:47 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:47:06{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:47 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:47:32{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:48 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:47:35{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:48 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:48:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:48 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:48:06{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Daily","sendon":"","sendtime":"05:48 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:48:43{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Weekly","sendon":"Wednesday","sendtime":"05:50 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 17:48:45{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Weekly","sendon":"Wednesday","sendtime":"05:50 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 17:50:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Weekly","sendon":"Wednesday","sendtime":"05:50 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 17:50:06{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-02T00:00:00+05:30","period":"Weekly","sendon":"Wednesday","sendtime":"05:50 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:27:05{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 18:27:07{"QueueJson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:27:36{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 18:27:38{"QueueJson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:27:38{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 18:27:41{"QueueJson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:28:43{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 18:28:46{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:29:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:29:04{"QueueJson":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 18:29:06{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 18:29:09{"QueueData":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 18:29:09{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 18:29:11{"QueueData":{"project":"qapost113","notification":"nt1","username":"syamala","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"6:29 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 20:02:20{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:03 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:02:23{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:03 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 20:03:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:03 PM","modifiedon":"08-01-2024 20:04:54"}}
+Producer is Sending  Message   10-01-2024 20:03:09{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:03 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 20:03:16{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:03:18{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 20:05:34{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:05:36{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 20:05:44{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:05:46{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"12:00 PM","modifiedon":"08-01-2024 20:04:54"}}
+ Traces of Consumer Message are  10-01-2024 20:06:00{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:07 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:06:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:07 PM","modifiedon":"10-01-2024 20:05:43"}}
+ Traces of Consumer Message are  10-01-2024 20:07:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:07 PM","modifiedon":"10-01-2024 20:05:43"}}
+ Traces of Consumer Message are  10-01-2024 20:09:43{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:07 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:09:45{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:07 PM","modifiedon":"10-01-2024 20:05:59"}}
+ Traces of Consumer Message are  10-01-2024 20:10:33{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:10:39{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM","modifiedon":"10-01-2024 20:09:42"}}
+ Traces of Consumer Message are  10-01-2024 20:11:05{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM","modifiedon":"10-01-2024 20:09:42"}}
+ Traces of Consumer Message are  10-01-2024 20:17:54{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 20:17:56{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM","modifiedon":"10-01-2024 20:10:33"}}
+ Traces of Consumer Message are  10-01-2024 21:58:14{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 21:58:20{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"8:11 PM","modifiedon":"10-01-2024 21:58:07"}}
+ Traces of Consumer Message are  10-01-2024 21:58:45{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"10:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   10-01-2024 21:58:48{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"10:00 PM","modifiedon":"10-01-2024 21:58:43"}}
+ Traces of Consumer Message are  10-01-2024 22:00:02{"QueueJson":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"10:00 PM","modifiedon":"10-01-2024 21:58:43"}}
+Producer is Sending  Message   10-01-2024 22:00:09{"QueueData":{"project":"qapost113","notification":"nt1","username":"employee","start_date":"2024-01-01","period":"Daily","sendon":"","sendtime":"10:00 PM","modifiedon":"10-01-2024 21:58:43"}}
+ Traces of Consumer Message are  24-04-2024 13:30:31{"QueueJson":{"project":"traineenew","notification":"remainder","username":"syamala","start_date":"2024-04-17","period":"Daily","sendon":"","sendtime":"3:23 PM","modifiedon":"4/17/2024 3:24:31 PM"}}
+ Traces of Consumer Message are  29-04-2024 10:50:18{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"lakshmi","start_date":"2024-04-24","period":"Daily","sendon":"","sendtime":"2:57 PM","modifiedon":"4/24/2024 2:56:52 PM"}}
+ Traces of Consumer Message are  29-04-2024 10:54:09{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"9:35 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 10:54:59{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"9:35 AM","modifiedon":"29-04-2024 10:56:40"}}
+ Traces of Consumer Message are  29-04-2024 10:58:43{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"10:58 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 10:59:09{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"10:58 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 11:00:10{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"10:58 AM","modifiedon":"29-04-2024 11:01:05"}}
+ Traces of Consumer Message are  29-04-2024 11:03:14{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-02-29","period":"Daily","sendon":"","sendtime":"11:05 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 11:04:00{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-02-29","period":"Daily","sendon":"","sendtime":"11:05 AM","modifiedon":"29-04-2024 11:05:47"}}
+ Traces of Consumer Message are  29-04-2024 11:05:25{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-02-29","period":"Daily","sendon":"","sendtime":"11:05 AM","modifiedon":"29-04-2024 11:05:47"}}
+ Traces of Consumer Message are  29-04-2024 12:17:38{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"10:58 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 12:18:05{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"10:58 AM","modifiedon":"29-04-2024 12:20:08"}}
+ Traces of Consumer Message are  29-04-2024 13:33:36{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"2:35 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 13:35:16{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"1:35 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 13:38:36{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"1:40 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 13:42:15{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"1:45 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 15:08:43{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"1:45 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 15:25:02{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 15:33:40{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 15:34:16{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM","modifiedon":"29-04-2024 15:36:10"}}
+ Traces of Consumer Message are  29-04-2024 15:35:28{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 15:36:06{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM","modifiedon":"29-04-2024 15:38:01"}}
+ Traces of Consumer Message are  29-04-2024 15:37:00{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 15:37:12{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM","modifiedon":"29-04-2024 15:39:33"}}
+ Traces of Consumer Message are  29-04-2024 15:38:05{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 15:38:14{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:26 PM","modifiedon":"29-04-2024 15:40:38"}}
+ Traces of Consumer Message are  29-04-2024 15:39:56{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:41 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 15:40:16{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:41 PM","modifiedon":"29-04-2024 15:42:29"}}
+ Traces of Consumer Message are  29-04-2024 15:42:00{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:41 PM","modifiedon":"29-04-2024 15:42:29"}}
+Producer is Sending  Message   29-04-2024 15:43:22{"QueueData":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:41 PM","modifiedon":"29-04-2024 15:42:29"}}
+ Traces of Consumer Message are  29-04-2024 15:53:35{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:53 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 15:58:16{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:55 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 16:13:50{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"3:55 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 16:45:30{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"4:26 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 17:18:15{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"5:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 17:22:12{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"5:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 17:26:12{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"5:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 18:24:10{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"6:24 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   29-04-2024 18:24:30{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"6:24 PM","modifiedon":"29-04-2024 18:26:43"}}
+ Traces of Consumer Message are  29-04-2024 18:34:49{
+"hjk":"hkj"
+}
+ Traces of Consumer Message are  29-04-2024 18:35:19{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"6:36 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  29-04-2024 18:40:50{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Daily","sendon":"","sendtime":"6:42 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  30-04-2024 10:28:33{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"10:30 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  30-04-2024 10:35:45{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"10:37 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  30-04-2024 11:21:43{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-29","period":"Weekly","sendon":"","sendtime":"11:25 AM","modifiedon":"4/30/2024 11:24:13 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:23:45{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"11:25 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  30-04-2024 11:26:23{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:28 AM","modifiedon":"4/30/2024 11:28:55 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:31:35{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:28 AM","modifiedon":"4/30/2024 11:34:06 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:33:58{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:35 AM","modifiedon":"4/30/2024 11:36:30 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:38:06{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:40 AM","modifiedon":"4/30/2024 11:40:38 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:38:14{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:40 AM","modifiedon":"4/30/2024 11:40:41 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:39:10{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:40 AM","modifiedon":"4/30/2024 11:41:41 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:40:28{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:40 AM","modifiedon":"4/30/2024 11:43:00 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:49:09{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"11:50 AM","modifiedon":"4/30/2024 11:51:41 AM"}}
+ Traces of Consumer Message are  30-04-2024 11:55:26{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"11:55 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   30-04-2024 11:56:22{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"11:55 AM","modifiedon":"30-04-2024 11:57:59"}}
+ Traces of Consumer Message are  30-04-2024 18:36:08{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"6:37 PM","modifiedon":"4/30/2024 6:38:37 PM"}}
+ Traces of Consumer Message are  30-04-2024 21:27:20{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"9:32 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  30-04-2024 21:29:16{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"9:32 PM","modifiedon":"4/30/2024 9:31:47 PM"}}
+ Traces of Consumer Message are  30-04-2024 21:29:28{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Daily","sendon":"","sendtime":"9:32 PM","modifiedon":"4/30/2024 9:30:45 PM"}}
+ Traces of Consumer Message are  30-04-2024 21:55:34{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"9:32 PM","modifiedon":"4/30/2024 9:58:03 PM"}}
+ Traces of Consumer Message are  30-04-2024 22:03:44{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"9:32 PM","modifiedon":"4/30/2024 10:06:15 PM"}}
+ Traces of Consumer Message are  30-04-2024 22:06:29{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"9:32 PM","modifiedon":"4/30/2024 10:09:00 PM"}}
+ Traces of Consumer Message are  30-04-2024 22:13:00{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-04-30","period":"Weekly","sendon":"","sendtime":"9:32 PM","modifiedon":"4/30/2024 10:15:29 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:01:41 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:03 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   5/1/2024 1:02:07 PM{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:03 PM","modifiedon":"5/1/2024 1:04:13 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:03:41 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-01","period":"Weekly","sendon":"","sendtime":"1:05 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   5/1/2024 1:03:52 PM{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-01","period":"Weekly","sendon":"","sendtime":"1:05 AM","modifiedon":"5/1/2024 1:06:13 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:03:55 PM{"QueueData":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-01","period":"Weekly","sendon":"","sendtime":"1:05 AM","modifiedon":"5/1/2024 1:06:13 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:09:21 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:10 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   5/1/2024 1:09:45 PM{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:10 PM","modifiedon":"5/1/2024 1:11:54 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:13:09 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:14 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   5/1/2024 1:13:24 PM{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:14 PM","modifiedon":"5/1/2024 1:15:41 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:14:26 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:14 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+Producer is Sending  Message   5/1/2024 1:15:27 PM{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:14 PM","modifiedon":"5/1/2024 1:16:59 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:16:38 PM{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-01","period":"Weekly","sendon":"","sendtime":"1:16 PM","modifiedon":"5/1/2024 1:19:06 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:30:49 PM{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-01","period":"Weekly","sendon":"","sendtime":"1:16 PM","modifiedon":"5/1/2024 1:33:21 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:33:09 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-01","period":"Daily","sendon":"","sendtime":"1:33 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  5/1/2024 1:35:11 PM{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Monthly","sendon":"First day","sendtime":"1:36 PM","modifiedon":"5/1/2024 1:37:43 PM"}}
+ Traces of Consumer Message are  5/1/2024 1:35:43 PM{"QueueJson":{"project":"axpost113","notification":"notify","username":"preeti","start_date":"2024-05-01","period":"Monthly","sendon":"First day","sendtime":"1:36 PM","modifiedon":"5/1/2024 1:38:14 PM"}}
+ Traces of Consumer Message are  08-05-2024 10:12:28{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-08","period":"Daily","sendon":"","sendtime":"10:15 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  08-05-2024 10:17:22{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-08","period":"Daily","sendon":"","sendtime":"10:17 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  08-05-2024 10:24:30{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-08","period":"Daily","sendon":"","sendtime":"10:27 AM","modifiedon":"5/8/2024 10:26:50 AM"}}
+ Traces of Consumer Message are  08-05-2024 10:31:28{"QueueJson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"10:32 AM","modifiedon":"5/8/2024 10:33:58 AM"}}
+ Traces of Consumer Message are  08-05-2024 10:33:34{"QueueJson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"10:35 AM","modifiedon":"5/8/2024 10:36:01 AM"}}
+ Traces of Consumer Message are  08-05-2024 10:35:08{"QueueJson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"10:35 AM","modifiedon":"5/8/2024 10:37:36 AM"}}
+ Traces of Consumer Message are  08-05-2024 10:58:17{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"10:50 AM","modifiedon":"5/8/2024 11:00:46 AM"}}
+ Traces of Consumer Message are  08-05-2024 11:02:02{"QueueJson":{"project":"axpost113","notification":"demo","username":"preeti","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"10:50 AM","modifiedon":"5/8/2024 11:04:31 AM"}}
+ Traces of Consumer Message are  08-05-2024 11:14:18{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"tstnotify","username":"lakshmi","start_date":"2024-05-02","period":"Daily","sendon":"","sendtime":"11:15 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  08-05-2024 11:15:23{"QueueJson":{"project":"testbed","notification":"purord","username":"karthikeyan","start_date":"2023-05-08","period":"Yearly","sendon":"","sendtime":"10:15 AM","modifiedon":"5/8/2024 11:17:24 AM"}}
+ Traces of Consumer Message are  08-05-2024 11:19:50{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"tstnotify","username":"lakshmi","start_date":"2024-05-02","period":"Weekly","sendon":"","sendtime":"11:21 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  08-05-2024 11:25:40{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"lakshmi","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"11:27 AM","modifiedon":"5/8/2024 11:28:09 AM"}}
+ Traces of Consumer Message are  08-05-2024 11:36:41{"QueueJson":{"project":"axpost113","notification":"tstnotify","username":"lakshmi","start_date":"2024-05-08","period":"Weekly","sendon":"","sendtime":"11:27 AM","modifiedon":"5/8/2024 11:39:08 AM"}}
+ Traces of Consumer Message are  6/20/2024 11:00:02 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:01:05 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:03:51 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:14:18 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:16:36 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:17:34 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:20:14 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 11:40:31 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:03:40 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"11:03 AM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:11:43 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:15 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:12:27 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:15 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:17:25 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:27:11 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:28:37 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:34:06 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:38:00 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:45:13 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:47:02 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:51:27 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:52:10 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:53:50 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:57:55 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 12:58:23 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Daily","sendon":"","sendtime":"12:37 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 1:17:15 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"1:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 1:19:52 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"1:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 1:22:51 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"1:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 1:35:07 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"1:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 1:38:18 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"1:21 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:17:34 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"3:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:19:18 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"3:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:21:24 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"3:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:25:29 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"3:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:30:50 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Weekly","sendon":"","sendtime":"3:20 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:54:46 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Monthly","sendon":"Last day","sendtime":"3:56 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/20/2024 3:55:41 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-20","period":"Monthly","sendon":"Last day","sendtime":"3:56 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/21/2024 10:30:06 AM{"QueueData":{"project":"config113","notification":"periodicnotify","username":"lakshmi","start_date":"2024-06-19","period":"Daily","sendon":"","sendtime":"6:00 PM","modifiedon":"6/19/2024 5:51:32 PM"}}
+ Traces of Consumer Message are  6/21/2024 10:49:04 AM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test1","username":"preeti","start_date":"2024-06-21","period":"Weekly","sendon":"","sendtime":"12:00 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  6/21/2024 11:44:21 AM{"QueueJson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-06-21","period":"Weekly","sendon":"Fri","sendtime":"12:00 PM","modifiedon":"6/21/2024 11:43:49 AM"}}
+ Traces of Consumer Message are  7/5/2024 4:13:53 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-07-05","period":"Daily","sendon":"","sendtime":"4:05 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  7/5/2024 4:49:09 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-07-05","period":"Daily","sendon":"","sendtime":"4:05 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  7/5/2024 5:30:34 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-07-05","period":"Daily","sendon":"","sendtime":"5:30 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  7/5/2024 5:40:43 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-07-05","period":"Daily","sendon":"","sendtime":"5:45 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  7/5/2024 6:21:00 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-07-05","period":"Daily","sendon":"","sendtime":"5:45 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
+ Traces of Consumer Message are  7/8/2024 12:14:36 PM{"queuedata":"ARMPeriodicNotificationQueueData","queuejson":{"project":"axpost113","notification":"test","username":"preeti","start_date":"2024-07-08","period":"Daily","sendon":"","sendtime":"12:17 PM"},"queuename":"ARMPeriodicNotificationQueue","signalrclient":"","apidesc":null,"timespandelay":0,"trace":false,"responsequeuename":null}
