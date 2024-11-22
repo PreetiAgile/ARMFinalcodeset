@@ -8,6 +8,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json.Linq;
+using NPOI.SS.Formula.Functions;
+using StackExchange.Redis;
+using NPOI.POIFS.Properties;
 
 namespace ARM_APIs.Model
 {
@@ -28,7 +32,7 @@ namespace ARM_APIs.Model
             _common = common;
         }
 
-    
+
         private async Task<Dictionary<string, string>> GetLoginUser(string ARMSessionId)
         {
             var dictSession = await _redis.HashGetAllDictAsync(ARMSessionId);
@@ -105,15 +109,11 @@ namespace ARM_APIs.Model
             return userroles;
         }
 
+
+
         public async Task<ARMResult> GetHomePageCards(ARMProcessFlowTask process)
         {
             List<string> userroles = await GetallRole(process.ARMSessionId);
-
-            if (userroles.Count == 0)
-            {
-                throw new Exception("NORECORDINAXPAGES");
-            }
-
             string allRole = string.Join(", ", userroles.Select(role => $"'{role}'"));
 
             DataTable MenuList;
@@ -129,37 +129,128 @@ namespace ARM_APIs.Model
             var Homepagecardslist = await GetHomePage(process.ARMSessionId, process.ToUser);
             var axPagesView = new DataView(MenuList);
             var homePageCardsView = new DataView(Homepagecardslist);
-
             var axPagesTable = axPagesView.ToTable();
             var homePageCardsTable = homePageCardsView.ToTable();
 
-            var homepagedata = from config in homePageCardsTable.AsEnumerable()
-                               join page in axPagesTable.AsEnumerable()
-                               on config["stransid"] equals page["pagetype"]
-                               where config["stransid"].ToString() == page["pagetype"].ToString()
-                                     && page["visible"].ToString() == "T"
-                               select new
-                           {
-                               caption = config["caption"],
-                               carddesc = config["carddesc"],
-                               cardid = config["cardid"],
-                               pagecaption = config["pagecaption"],
-                               displayicon = config["displayicon"],
-                               stransid = config["stransid"],
-                               datasource = config["datasource"],
-                               moreoption = config["moreoption"],
-                               colorcode = config["colorcode"],
-                               groupfolder = config["groupfolder"],
-                               grouppageid = config["grppageid"],
-                               cardhide = config["cardhide"],
-                               
+            var menuoptions = from card in homePageCardsTable.AsEnumerable()
+                              join menu in axPagesTable.AsEnumerable()
+                              on card["pgname"].ToString() equals menu["name"].ToString()
+                              where menu["type"].ToString() == "p"
+                              && card["panelType"].ToString() == "Menu option"
+                              select new
+                              {
+                                  cardid = card["cardid"],
+                                  caption = card["caption"],
+                                  pgname = card["pgname"],
+                                  displayicon = card["displayicon"],
+                                  stransid = card["stransid"],
+                                  datasource = card["datasource"],
+                                  moreoption = card["moreoption"],
+                                  colorcode = card["colorcode"],
+                                  groupfolder = card["groupfolder"],
+                                  grppageid = card["grppageid"],
+                                  carddesc = card["carddesc"],
+                                  cardhide = card["cardhide"],
+                                  html_editor_card = card["html_editor_card"],
+                                  paneltypecnd = card["paneltypecnd"],
+                                  paneltype = card["paneltype"]
+                              };
 
-                           };
-            ARMResult result = new ARMResult();
-            result.result.Add("message", "SUCCESS");
-            result.result.Add("data", homepagedata);
-            return result;
+            var parentIds = homePageCardsTable.AsEnumerable()
+                                    .Where(row => row["paneltype"].ToString() == "Menu folder")
+                                    .Select(row => (parentId: row["pgname"].ToString(), parentCaption: row["caption"].ToString()))
+                                    .Distinct();
+
+            DataTable finalMenuFolder = new DataTable();
+            finalMenuFolder.Columns.Add("cardid", typeof(string));
+            finalMenuFolder.Columns.Add("caption", typeof(string));
+            finalMenuFolder.Columns.Add("groupfolder", typeof(string));
+            finalMenuFolder.Columns.Add("grppageid", typeof(string));
+            finalMenuFolder.Columns.Add("paneltype", typeof(string));
+            finalMenuFolder.Columns.Add("target", typeof(string));
+
+            foreach (var (parentId, parentCaption) in parentIds)
+            {
+                if (!string.IsNullOrEmpty(parentId))
+                {
+                    var menufolder = await GetAllGrandChildren(axPagesTable, homePageCardsTable, parentId, parentId, parentCaption);
+                    if (menufolder.Rows.Count > 0)
+                    {
+                        finalMenuFolder.Merge(menufolder);
+                    }
+                }
+            }
+
+            return new ARMResult
+            {
+                result = new Dictionary<string, object>
+                    {
+                        { "message", "SUCCESS" },
+                        { "menu folder", finalMenuFolder },
+                        { "menu option", menuoptions }
+                    }
+            };
+
+            throw new Exception("No valid Parent ID found in the HomePageCards.");
         }
+
+        public async Task<DataTable> GetAllGrandChildren(DataTable axPagesTable, DataTable homePageCardsTable, string parentId, string mainParentId, string mainParentCaption)
+        {
+            DataTable resultTable = new DataTable();
+            resultTable.Columns.Add("cardid", typeof(string));
+            resultTable.Columns.Add("caption", typeof(string));
+            resultTable.Columns.Add("groupfolder", typeof(string));
+            resultTable.Columns.Add("grppageid", typeof(string));
+            resultTable.Columns.Add("paneltype", typeof(string));
+            resultTable.Columns.Add("target", typeof(string));
+
+            await PopulateChildren(axPagesTable, resultTable, parentId, mainParentId, mainParentCaption);
+
+            return resultTable;
+        }
+
+        public async Task PopulateChildren(DataTable axPagesTable, DataTable resultTable, string parentId, string mainParentId, string mainParentCaption)
+        {
+            var childRows = axPagesTable.AsEnumerable()
+                                        .Where(row => row["parent"].ToString() == parentId && row["visible"].ToString() == "T");
+
+            if (!childRows.Any())
+            {
+                return;
+            }
+
+            foreach (var childRow in childRows)
+            {
+                if (childRow["type"].ToString() != "h")
+                {
+                    var target = "";
+                    if (childRow["pagetype"].ToString().ToLower().StartsWith("i")) {
+                        target = "iview.aspx?ivname=" + childRow["pagetype"].ToString();
+                    }
+                    else if (childRow["pagetype"].ToString().ToLower().StartsWith("t"))
+                    {
+                        target = "tstruct.aspx?transid=" + childRow["pagetype"].ToString();
+                    }
+
+                    if (target != "")
+                    {
+                        var newRow = resultTable.NewRow();
+                        newRow["cardid"] = childRow["name"].ToString();
+                        newRow["caption"] = childRow["caption"].ToString();
+                        newRow["groupfolder"] = mainParentCaption;
+                        newRow["grppageid"] = mainParentId;
+                        newRow["paneltype"] = "Menu folder";
+                        newRow["target"] = target;
+                        resultTable.Rows.Add(newRow);
+                    }
+                }
+
+                string childId = childRow["name"].ToString();
+                await PopulateChildren(axPagesTable, resultTable, childId, mainParentId, mainParentCaption);
+            }
+        }
+
+
 
         public async Task<ARMResult> GetMenu(ARMSession model)
         {
